@@ -2,48 +2,28 @@
   "last_updated": "2026-06-29T09:00:00",
   "youtube": {
     "fashion": [
-      {
-        "id": "yt_f1",
-        "title": "2026 여름 패션 하울 | 무신사·H&M 쇼핑",
-        "channel": "StyleByJinju",
-        "thumbnail_url": "",
-        "views": "128,000",
-        "published_at": "2026-06-27",
-        "url": "https://youtube.com",
-        "category": "패션"
-      },
-      {
-        "id": "yt_f2",
-        "title": "올드머니룩 완성하는 법 | 퀄리티 아이템 추천",
-        "channel": "LookBook Korea",
-        "thumbnail_url": "",
-        "views": "89,000",
-        "published_at": "2026-06-26",
-        "url": "https://youtube.com",
-        "category": "패션"
-      }
+      { "id": "sample_f1", "title": "2026 여름 패션 하울 | 무신사·H&M 쇼핑", "channel": "StyleByJinju", "thumbnail_url": "", "views": "128,000", "published_at": "2026-06-27", "url": "https://youtube.com", "category": "패션" }
     ],
     "beauty": [
-      {
-        "id": "yt_b1",
-        "title": "요즘 핫한 글로우 메이크업 풀 튜토리얼",
-        "channel": "뷰티크리에이터민지",
-        "thumbnail_url": "",
-        "views": "234,000",
-        "published_at": "2026-06-28",
-        "url": "https://youtube.com",
-        "category": "뷰티"
-      },
-      {
-        "id": "yt_b2",
-        "title": "올영 신상 선크림 6종 비교 리뷰",
-        "channel": "스킨케어연구소",
-        "thumbnail_url": "",
-        "views": "156,000",
-        "published_at": "2026-06-27",
-        "url": "https://youtube.com",
-        "category": "뷰티"
-      }
+      { "id": "sample_b1", "title": "요즘 핫한 글로우 메이크업 풀 튜토리얼", "channel": "뷰티크리에이터민지", "thumbnail_url": "", "views": "234,000", "published_at": "2026-06-28", "url": "https://youtube.com", "category": "뷰티" }
+    ]
+  },
+  "mz_trending": {
+    "domestic": [
+      { "id": "d1", "title": "퍼스널컬러 진단 받고 쇼핑했더니 🫶", "channel": "소영이네", "thumbnail_url": "", "views": "89만", "published_at": "2026-06-28", "url": "https://youtube.com", "category": "뷰티", "platform": "youtube", "region": "국내" },
+      { "id": "d2", "title": "올드머니룩 완성하는 법 | 요즘 여자들 패션", "channel": "패션유튜버루나", "thumbnail_url": "", "views": "56만", "published_at": "2026-06-27", "url": "https://youtube.com", "category": "패션", "platform": "youtube", "region": "국내" },
+      { "id": "d3", "title": "올리브영 6월 신상 전부 써봤어요", "channel": "뷰티덕후진진", "thumbnail_url": "", "views": "45만", "published_at": "2026-06-26", "url": "https://youtube.com", "category": "뷰티", "platform": "youtube", "region": "국내" },
+      { "id": "d4", "title": "무신사 여름 세일 하울 GRWM", "channel": "데일리룩민서", "thumbnail_url": "", "views": "32만", "published_at": "2026-06-25", "url": "https://youtube.com", "category": "패션", "platform": "youtube", "region": "국내" },
+      { "id": "d5", "title": "2만원대 선쿠션 6개 비교 리뷰", "channel": "스킨케어연구소", "thumbnail_url": "", "views": "28만", "published_at": "2026-06-24", "url": "https://youtube.com", "category": "뷰티", "platform": "youtube", "region": "국내" },
+      { "id": "d6", "title": "MZ가 요즘 입는 옷 | 트렌드 총정리", "channel": "트렌드리포트", "thumbnail_url": "", "views": "21만", "published_at": "2026-06-23", "url": "https://youtube.com", "category": "패션", "platform": "youtube", "region": "국내" }
+    ],
+    "international": [
+      { "id": "i1", "title": "Get Ready With Me: Quiet Luxury Summer", "channel": "Emma Chamberlain", "thumbnail_url": "", "views": "2.1M", "published_at": "2026-06-28", "url": "https://youtube.com", "category": "패션", "platform": "youtube", "region": "해외" },
+      { "id": "i2", "title": "K-Beauty Skincare Routine That Changed My Skin", "channel": "Beauty by Hyram", "thumbnail_url": "", "views": "1.8M", "published_at": "2026-06-27", "url": "https://youtube.com", "category": "뷰티", "platform": "youtube", "region": "해외" },
+      { "id": "i3", "title": "Old Money Aesthetic On A Budget 2026", "channel": "Jessica Wang", "thumbnail_url": "", "views": "980K", "published_at": "2026-06-26", "url": "https://youtube.com", "category": "패션", "platform": "youtube", "region": "해외" },
+      { "id": "i4", "title": "Y2K Makeup Tutorial: Copper Eye Look", "channel": "NikkieTutorials", "thumbnail_url": "", "views": "870K", "published_at": "2026-06-25", "url": "https://youtube.com", "category": "뷰티", "platform": "youtube", "region": "해외" },
+      { "id": "i5", "title": "Summer Fashion Trends You Need To Know", "channel": "Aimee Song", "thumbnail_url": "", "views": "650K", "published_at": "2026-06-24", "url": "https://youtube.com", "category": "패션", "platform": "youtube", "region": "해외" },
+      { "id": "i6", "title": "Glass Skin Routine: The Korean Way", "channel": "Gothamista", "thumbnail_url": "", "views": "540K", "published_at": "2026-06-23", "url": "https://youtube.com", "category": "뷰티", "platform": "youtube", "region": "해외" }
     ]
   }
 }
