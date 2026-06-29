@@ -1,0 +1,92 @@
+{
+  "last_updated": "2026-06-29T09:00:00",
+  "season_events": [
+    { "name": "칠석", "date": "2026-07-07", "type": "holiday", "color": "#FF9F43" },
+    { "name": "여름 세일", "date": "2026-07-15", "type": "sale", "color": "#FF4FA3" },
+    { "name": "광복절", "date": "2026-08-15", "type": "holiday", "color": "#54A0FF" },
+    { "name": "추석", "date": "2026-09-25", "type": "holiday", "color": "#F9CA24" },
+    { "name": "핼러윈", "date": "2026-10-31", "type": "global", "color": "#F0932B" },
+    { "name": "빼빼로데이", "date": "2026-11-11", "type": "love", "color": "#FF4FA3" },
+    { "name": "블랙프라이데이", "date": "2026-11-27", "type": "sale", "color": "#2C2C2C" },
+    { "name": "크리스마스", "date": "2026-12-25", "type": "holiday", "color": "#6AB04C" },
+    { "name": "발렌타인데이", "date": "2027-02-14", "type": "love", "color": "#FF4FA3" },
+    { "name": "화이트데이", "date": "2027-03-14", "type": "love", "color": "#DFE6E9" },
+    { "name": "올영세일", "date": "2027-04-01", "type": "beauty", "color": "#FF4FA3" }
+  ],
+  "top_keywords": [
+    { "rank": 1, "keyword": "Y2K 메이크업", "direction": "up", "sources": ["pinterest", "twitter"], "category": "뷰티" },
+    { "rank": 2, "keyword": "올드머니룩", "direction": "up", "sources": ["google", "naver"], "category": "패션" },
+    { "rank": 3, "keyword": "글로우 스킨", "direction": "up", "sources": ["reddit", "pinterest"], "category": "뷰티" },
+    { "rank": 4, "keyword": "코퍼 메이크업", "direction": "up", "sources": ["pinterest"], "category": "뷰티" },
+    { "rank": 5, "keyword": "린넨 자켓", "direction": "up", "sources": ["naver", "google"], "category": "패션" },
+    { "rank": 6, "keyword": "퍼스널컬러 진단", "direction": "up", "sources": ["twitter", "naver"], "category": "뷰티" },
+    { "rank": 7, "keyword": "미니멀 메이크업", "direction": "down", "sources": ["google"], "category": "뷰티" },
+    { "rank": 8, "keyword": "와이드 데님", "direction": "up", "sources": ["pinterest", "reddit"], "category": "패션" }
+  ],
+  "sources": {
+    "pinterest": {
+      "name": "Pinterest 트렌드",
+      "emoji": "📌",
+      "color": "#E60023",
+      "description": "글로벌 비주얼 트렌드",
+      "items": [
+        { "text": "Butter Skin", "subtext": "피부 표현 트렌드", "url": "https://www.pinterest.com/ideas/beauty/902988698422/" },
+        { "text": "Copper Makeup", "subtext": "컬러 메이크업", "url": "https://www.pinterest.com" },
+        { "text": "Boho Summer", "subtext": "여름 패션", "url": "https://www.pinterest.com" },
+        { "text": "Old Money Aesthetic", "subtext": "럭셔리 캐주얼", "url": "https://www.pinterest.com" },
+        { "text": "Glass Skin", "subtext": "K-뷰티 스킨케어", "url": "https://www.pinterest.com" }
+      ]
+    },
+    "twitter": {
+      "name": "X (Twitter) 트렌딩",
+      "emoji": "🐦",
+      "color": "#1DA1F2",
+      "description": "MZ 실시간 반응",
+      "items": [
+        { "text": "#퍼스널컬러", "subtext": "5.2만 트윗", "url": "https://twitter.com" },
+        { "text": "#무신사하울", "subtext": "3.1만 트윗", "url": "https://twitter.com" },
+        { "text": "#올리브영세일", "subtext": "2.8만 트윗", "url": "https://twitter.com" },
+        { "text": "#Y2K메이크업", "subtext": "1.9만 트윗", "url": "https://twitter.com" },
+        { "text": "#선크림추천", "subtext": "1.4만 트윗", "url": "https://twitter.com" }
+      ]
+    },
+    "google": {
+      "name": "구글 트렌드",
+      "emoji": "📊",
+      "color": "#4285F4",
+      "description": "국내+글로벌 검색 급상승",
+      "items": [
+        { "text": "선크림 추천", "subtext": "↑ 340%", "url": "https://trends.google.com" },
+        { "text": "여름 원피스 코디", "subtext": "↑ 280%", "url": "https://trends.google.com" },
+        { "text": "틴트 오래 지속", "subtext": "↑ 210%", "url": "https://trends.google.com" },
+        { "text": "K-beauty routine", "subtext": "↑ 195%", "url": "https://trends.google.com" },
+        { "text": "린넨 소재 옷", "subtext": "↑ 165%", "url": "https://trends.google.com" }
+      ]
+    },
+    "reddit": {
+      "name": "Reddit",
+      "emoji": "🌐",
+      "color": "#FF4500",
+      "description": "해외 MZ 여성 반응",
+      "items": [
+        { "text": "K-beauty is taking over", "subtext": "r/SkincareAddiction · 댓글 892", "url": "https://reddit.com/r/SkincareAddiction" },
+        { "text": "Best tinted SPF 2026", "subtext": "r/beauty · 댓글 634", "url": "https://reddit.com/r/beauty" },
+        { "text": "Quiet luxury summer outfits", "subtext": "r/femalefashionadvice · 댓글 521", "url": "https://reddit.com/r/femalefashionadvice" },
+        { "text": "Korean fashion brands worth buying", "subtext": "r/femalefashionadvice · 댓글 417", "url": "https://reddit.com/r/femalefashionadvice" }
+      ]
+    },
+    "naver": {
+      "name": "네이버 DataLab",
+      "emoji": "🛒",
+      "color": "#03C75A",
+      "description": "국내 쇼핑 트렌드 (주간 상승)",
+      "items": [
+        { "text": "선쿠션", "subtext": "↑ 234%", "url": "https://datalab.naver.com" },
+        { "text": "린넨 자켓", "subtext": "↑ 189%", "url": "https://datalab.naver.com" },
+        { "text": "립 틴트", "subtext": "↑ 156%", "url": "https://datalab.naver.com" },
+        { "text": "오버핏 반팔", "subtext": "↑ 143%", "url": "https://datalab.naver.com" },
+        { "text": "토너패드", "subtext": "↑ 121%", "url": "https://datalab.naver.com" }
+      ]
+    }
+  }
+}

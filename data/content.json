@@ -1,0 +1,49 @@
+{
+  "last_updated": "2026-06-29T09:00:00",
+  "youtube": {
+    "fashion": [
+      {
+        "id": "yt_f1",
+        "title": "2026 여름 패션 하울 | 무신사·H&M 쇼핑",
+        "channel": "StyleByJinju",
+        "thumbnail_url": "",
+        "views": "128,000",
+        "published_at": "2026-06-27",
+        "url": "https://youtube.com",
+        "category": "패션"
+      },
+      {
+        "id": "yt_f2",
+        "title": "올드머니룩 완성하는 법 | 퀄리티 아이템 추천",
+        "channel": "LookBook Korea",
+        "thumbnail_url": "",
+        "views": "89,000",
+        "published_at": "2026-06-26",
+        "url": "https://youtube.com",
+        "category": "패션"
+      }
+    ],
+    "beauty": [
+      {
+        "id": "yt_b1",
+        "title": "요즘 핫한 글로우 메이크업 풀 튜토리얼",
+        "channel": "뷰티크리에이터민지",
+        "thumbnail_url": "",
+        "views": "234,000",
+        "published_at": "2026-06-28",
+        "url": "https://youtube.com",
+        "category": "뷰티"
+      },
+      {
+        "id": "yt_b2",
+        "title": "올영 신상 선크림 6종 비교 리뷰",
+        "channel": "스킨케어연구소",
+        "thumbnail_url": "",
+        "views": "156,000",
+        "published_at": "2026-06-27",
+        "url": "https://youtube.com",
+        "category": "뷰티"
+      }
+    ]
+  }
+}
