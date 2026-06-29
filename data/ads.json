@@ -1,0 +1,56 @@
+{
+  "last_updated": "2026-06-29T09:00:00",
+  "ads": [
+    {
+      "ad_id": "sample_001",
+      "page_id": "606951376010474",
+      "page_name": "올리브영",
+      "category": "뷰티플랫폼",
+      "caption": "올리브영 올영세일 진행중! 최대 50% 할인 + 무료배송\n지금 바로 확인하세요 🛍️",
+      "cta_text": "지금 쇼핑하기",
+      "landing_url": "https://www.oliveyoung.co.kr",
+      "thumbnail_url": "",
+      "video_url": null,
+      "start_date": "2026-06-01",
+      "active_days": 28,
+      "is_active": true,
+      "has_video": false,
+      "platforms": ["facebook", "instagram"],
+      "library_url": "https://www.facebook.com/ads/library/?id=sample_001"
+    },
+    {
+      "ad_id": "sample_002",
+      "page_id": "100068880381384",
+      "page_name": "이니스프리",
+      "category": "스킨케어",
+      "caption": "🍃 자연에서 온 깨끗한 성분\n제주 녹차로 만든 그린티 씨드 세럼\n피부 속 깊은 보습을 경험해보세요",
+      "cta_text": "더 알아보기",
+      "landing_url": "https://www.innisfree.com",
+      "thumbnail_url": "",
+      "video_url": null,
+      "start_date": "2026-06-10",
+      "active_days": 19,
+      "is_active": true,
+      "has_video": false,
+      "platforms": ["facebook", "instagram"],
+      "library_url": "https://www.facebook.com/ads/library/?id=sample_002"
+    },
+    {
+      "ad_id": "sample_003",
+      "page_id": "100076925254841",
+      "page_name": "무신사",
+      "category": "패션플랫폼",
+      "caption": "무신사 여름 세일 시작 🔥\n5만원 이상 구매 시 추가 10% 할인\n최신 트렌드 패션을 지금 만나보세요",
+      "cta_text": "쇼핑하기",
+      "landing_url": "https://www.musinsa.com",
+      "thumbnail_url": "",
+      "video_url": null,
+      "start_date": "2026-06-15",
+      "active_days": 14,
+      "is_active": true,
+      "has_video": true,
+      "platforms": ["facebook", "instagram", "threads"],
+      "library_url": "https://www.facebook.com/ads/library/?id=sample_003"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+name: Deploy to Vercel
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/ads.json"
+      - "app/**"
+      - "components/**"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vercel은 GitHub push를 자동 감지합니다
+        run: echo "Vercel이 자동으로 배포를 시작합니다."

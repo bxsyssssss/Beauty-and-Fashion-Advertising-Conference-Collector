@@ -1,0 +1,23 @@
+# Next.js
+.next/
+node_modules/
+out/
+
+# 로컬 DB (크기가 커서 Git에 안 올림)
+data/ads.db
+data/media/
+data/logs/
+
+# 환경 변수
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
